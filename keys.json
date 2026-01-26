@@ -1,5 +1,11 @@
 {
-  "KEY-09892": true,
-  "VIP-999": true,
-  "TEST-001": true
+  "KEY-09892": {
+    "used": false
+  },
+  "SAB-BBB-222": {
+    "used": false
+  },
+  "SAB-CCC-333": {
+    "used": true
+  }
 }
