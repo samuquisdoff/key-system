@@ -1,10 +1,5 @@
 {
-  "KEY-09892": {
-    "used": false
-  },
-  "SAB-BBB-222": {
-    "used": false
-  },
-  "KEY-87624": {
-    "used": false
+  "KEY-06542": { "used": false },
+  "SAB-BBB-222": { "used": false },
+  "SAB-CCC-333": { "used": true }
 }
