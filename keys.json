@@ -1,5 +1,6 @@
 {
-  "KEY-06542": { "used": false },
-  "SAB-BBB-222": { "used": false },
-  "SAB-CCC-333": { "used": true }
+  "KEY-10MIN": {
+    "used": false,
+    "time": 600
+  }
 }
